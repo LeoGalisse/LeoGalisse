@@ -11,9 +11,7 @@
 
 <h3 style="margin-bottom: 10px" align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/galisse" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="galisse linkedin" />
-  </a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="galisse linkedin" href="https://linkedin.com/in/galisse"/>
 </p>
 
 <br/>
@@ -39,11 +37,13 @@
 
 <br/>
 <h1 align="center">GitHub Stats</h1>
+<div style="display: flex">
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leogalisse&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leogalisse most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogalisse&theme=dracula&hide_progress=true" alt="leogalisse most used languages"
+  />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leogalisse&show_icons=true&theme=dracula&locale=en" alt="leogalisse github stats" />
 </p>
-
+</div>
