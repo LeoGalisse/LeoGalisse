@@ -1,6 +1,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2000&color=F79F31&center=true&width=435&lines=Hi!+I'm+Leonardo+Galisse+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
+<img src='https://visitor-badge.laobi.icu/badge?page_id=LeoGalisse.LeoGalisse' />
 <h3 align="center">A Computer Engineering and a passionate developer, always looking to learn something new!</h3>
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Automated Tests, VueJS**
